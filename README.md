@@ -1,2 +1,3 @@
 # IDEAS-INTERNSHIP
 MACHINE LEADNING PROJECT
+The project uses a structured dataset containing different features such as the number of rooms, size of the property, location, and other related attributes. These features are analyzed to understand their influence on property prices. Machine learning technology forms the core of this project, leveraging regression algorithms to model and predict continuous target values. Various tools and libraries from the Python ecosystem, including NumPy, Pandas, Matplotlib, Scikit-learn, and Seaborn, have been used to handle data preparation, visualization, model training, and performance evaluation
